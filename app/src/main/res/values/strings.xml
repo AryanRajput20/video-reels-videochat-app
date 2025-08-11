@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Video+Reels APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="end_call">wh</string>
+    <string name="switch_camera">sb\n</string>
+    <string name="mute_mic">mc\n</string>
+</resources>
