@@ -23,12 +23,7 @@ It’s built in **Kotlin**, powered by the **Agora SDK** for real-time video cal
 - **IDE:** Android Studio  
 ---
 ## 📸 Screenshots
-## 📸 Screenshots
-| Reels Section | Video Call |
-|---------------|-----------|
-| ![](screenshots/screenshot1.png) | ![](screenshots/screenshot2.png) |
-| ![](screenshots/screenshot3.png) | ![](screenshots/screenshot4.png) |
-| ![](screenshots/screenshot5.png) |   |
+APP-> Sceeenshots
 
 
 
