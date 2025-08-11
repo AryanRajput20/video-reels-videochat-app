@@ -6,16 +6,16 @@ It’s built in **Kotlin**, powered by the **Agora SDK** for real-time video cal
 
 ---
 
-## ✨ What it Can Do
-- 📞 **Face-to-Face Video Calls** – Real-time and super clear (thanks to Agora).  
-- 🎥 **Watch Reels** – Swipe up & down through short videos, just like Instagram.  
-- 🖌 **Clean, Modern UI** – Material Design for that polished look.  
-- ⚡ **Low Latency** – Because nobody likes lag.  
-- 🛠 **Made with Love** – And a lot of coffee ☕.  
+## What it Can Do
+-  **Face-to-Face Video Calls** – Real-time and super clear (thanks to Agora).  
+-  **Watch Reels** – Swipe up & down through short videos, just like Instagram.  
+-  **Clean, Modern UI** – Material Design for that polished look.  
+-  **Low Latency** – Because nobody likes lag.  
+-  **Made with Love** – And a lot of coffee ☕.  
 
 ---
 
-## 🛠 Tech Behind the Scenes
+##  Tech Behind the Scenes
 - **Language:** Kotlin (AndroidX)  
 - **UI:** XML layouts + Material Components  
 - **Video Streaming:** Agora Real-Time Engagement SDK  
@@ -23,6 +23,11 @@ It’s built in **Kotlin**, powered by the **Agora SDK** for real-time video cal
 - **IDE:** Android Studio  
 ---
 ## 📸 Screenshots
+| Reels Section | Video Call |
+|---------------|-----------|
+| ![](screenshots/screenshot1.png) | ![](screenshots/screenshot2.png) |
+| ![](screenshots/screenshot3.png) | ![](screenshots/screenshot4.png) |
+| ![](screenshots/screenshot5.png) |   |
 
 
 
