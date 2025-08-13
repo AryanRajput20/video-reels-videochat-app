@@ -53,9 +53,6 @@ This is for security reasons, so your video calls remain private.
 
 5.Sync Gradle and hit that ▶ Run button!
 
----
-
-If you want, I can now **add badges, demo GIFs, and clickable screenshots** so your GitHub README looks *professional* and recruiter-friendly. That will make it perfect for a CV project showcase.  
-- aryan
+--- 
 
 
